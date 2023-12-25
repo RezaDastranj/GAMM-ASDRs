@@ -8,6 +8,6 @@ For more details, refer to the related paper: Generalized Additive Forecasting M
 
 https://doi.org/10.48550/arXiv.2311.18698
 
-https://rezadastranj.github.io/LME-ASDRs/
+https://rezadastranj.github.io/LME-ASDRs
 
 https://doi.org/10.48550/arXiv.2311.18668
