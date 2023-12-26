@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Mixed Effects Modelling Mortality
+Mixed Modelling Mortality
